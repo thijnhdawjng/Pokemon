@@ -30,6 +30,7 @@ public abstract class AbstractScreen implements Screen{
 
 	@Override
 	public abstract void show();
+
 	
 	public Pokemon getApp() {
 		return app;
