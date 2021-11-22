@@ -8,10 +8,11 @@ public class Main {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		
 		config.title = "Pokemon by CDPT";
-		config.height = 896;
-		config.width = 1600;
+		config.height = 720;
+		config.width = 1280;
 		config.vSyncEnabled = true;
-		
+
 		new LwjglApplication(new Pokemon(), config);
+
 	}
 }
