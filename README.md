@@ -1,1 +1,1 @@
-Pokemon v1.0 alpha beta theta delta cái mẹ gì đấy.
+Pokemon v1.0 alpha beta gamma theta delta epsilon lambda sigma omega.
