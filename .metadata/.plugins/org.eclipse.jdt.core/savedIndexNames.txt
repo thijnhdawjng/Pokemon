@@ -1,0 +1,21 @@
+INDEX VERSION 1.131+C:\Users\thinh\Desktop\Pokemon\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3398362709.index
+1210658807.index
+3174511971.index
+1845177313.index
+4281586967.index
+2293400623.index
+1859273225.index
+2952452443.index
+2904952333.index
+3633938321.index
+3204441171.index
+980898222.index
+341883427.index
+1470517233.index
+989034205.index
+3609062003.index
+3296027689.index
+3604397742.index
+2771534771.index

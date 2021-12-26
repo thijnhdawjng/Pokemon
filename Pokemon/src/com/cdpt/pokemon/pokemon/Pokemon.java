@@ -14,7 +14,7 @@ public class Pokemon {
 
 //    private Image fromBackImage,
 //                  fromFrontImage;
-   
+
     public Pokemon(Species s) {
         this(s, 5);
     }
